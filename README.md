@@ -8,7 +8,7 @@
 
 <p>
 
-This is a first version of the checker, only test placing pieces and check legal moves or jumps.
+This is a first version of the checker using MIPSym, only test placing pieces and check legal moves or jumps.
 
 </p>
 </section>
